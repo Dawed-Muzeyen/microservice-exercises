@@ -1,8 +1,2 @@
 server:
     port: 8081
-security:
-    basic:
-        enabled: true
-    user:
-        name: "dani"
-        password: "dani"
